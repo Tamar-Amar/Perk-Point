@@ -149,4 +149,5 @@ We would like to thank the following contributors for their valuable efforts:
 
 - [Contributor 1](https://github.com/Talia22) - Talia Fridman
 - [Contributor 2](https://github.com/BatyahCohen) - Batyah Cohen
-- [Contributor 3](https://github.com/Tamar-Amar) - Tamar Amar
+- [Contributor 3](https://github.com/onico100) - Odaya Kopperman
+  
